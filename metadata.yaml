@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '34981'
     url: http://www.gutenberg.org/2009/agents/34981
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31057#The-Wishing-Moon
 gutenberg_issued: '2010-01-23'
 gutenberg_type: Text
 identifiers:
