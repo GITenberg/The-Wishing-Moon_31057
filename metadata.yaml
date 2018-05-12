@@ -1,0 +1,35 @@
+_repo: The-Wishing-Moon_31057
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shinn, Everett
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '38228'
+    url: http://www.gutenberg.org/2009/agents/38228
+covers:
+- cover_type: archival
+  image_path: 31057-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dutton, Louise Elizabeth
+    gutenberg_agent_id: '34981'
+    url: http://www.gutenberg.org/2009/agents/34981
+description: ''
+gutenberg_issued: '2010-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Rich people -- Fiction'
+title: The Wishing Moon
+url: http://www.gutenberg.org/ebooks/31057
